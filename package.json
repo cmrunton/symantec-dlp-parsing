@@ -1,0 +1,23 @@
+{
+  "name": "symantec-dlp-parsing",
+  "version": "1.0.0",
+  "description": "Node scripts that I use to help parse cvs exports from the Symantec DLP tool into useable data sets",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmrunton/symantec-dlp-parsing.git"
+  },
+  "author": "Craine Runton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmrunton/symantec-dlp-parsing/issues"
+  },
+  "homepage": "https://github.com/cmrunton/symantec-dlp-parsing#readme",
+  "dependencies": {
+    "csv-parse": "^1.1.0",
+    "node-status": "^0.1.7"
+  }
+}
